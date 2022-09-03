@@ -69,7 +69,7 @@ a{
 
 .banner{
 
-    background-image: url("../images/lobbyhotel.jpeg");
+    background-image: url("./lobbyhotel.jpeg");
     color: #957147;
     height: 100vh;
     background-size: cover;
@@ -78,7 +78,7 @@ a{
 }
 
 .bannerchambre{
-    background-image: url("../images/chambre.jpg");
+    background-image: url("./chambre.jpg");
     color: #957147;
     height: 100vh;
     background-size: cover;
@@ -88,7 +88,7 @@ a{
 
 }
 .bannerrestaurant{
-    background-image: url("../images/banniere\ restaurant.jpg");
+    background-image: url("./banniere\ restaurant.jpg");
     color: #957147;
     height: 100vh;
     background-size: cover;
@@ -99,7 +99,7 @@ a{
 }
 
 .bannerspa{
-    background-image: url("../images/bannierespa.jpg");
+    background-image: url("./bannierespa.jpg");
     color: #957147;
     height: 100vh;
     background-size: cover;
@@ -108,7 +108,7 @@ a{
 
 }
 .bannerhotel{
-    background-image: url("../images/facade\ hotel.jpeg");
+    background-image: url("./facade\ hotel.jpeg");
     color: #957147;
     height: 100vh;
     background-size: cover;
